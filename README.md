@@ -14,7 +14,12 @@ Build Instruction
     Execute the command below in project root directory.<br>
     `$ <ndk_dir>/ndk-build`
 
+
+GitHub URL
+----------
+[https://github.com/pikanji/JniTest](https://github.com/pikanji/JniTest)
+
 Git Tags
 --------
-
-minimum 
+* minimum -- Minimum code demonstrating Android JNI usage.
+* call_j -- Demonstrates calling a Java method from native code.

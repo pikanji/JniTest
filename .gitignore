@@ -2,5 +2,6 @@
 /gen
 /libs
 /obj
+/jni/net_pikanji_jnitest_*
 *.DS_Store
 *~

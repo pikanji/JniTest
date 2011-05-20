@@ -26,4 +26,9 @@ public class JniTest extends Activity {
         TextView textView = (TextView) findViewById(R.id.text);
         textView.setText(text);
     }
+
+    // Method called from native
+    public int getIntFromJni() {
+        return 123;
+    }
 }
